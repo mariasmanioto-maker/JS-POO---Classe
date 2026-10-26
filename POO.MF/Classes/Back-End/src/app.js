@@ -1,0 +1,1 @@
+import {Produto} from './models/produto.js'
